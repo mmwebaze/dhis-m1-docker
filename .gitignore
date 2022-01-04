@@ -1,0 +1,14 @@
+*.ipr
+*.iws
+*.iml
+.idea
+cache
+fig.yml.sample
+releases
+database/dhis2-db.sql.gz
+.DS_Store
+pgdata/*
+conf/dhis2-db-sierra-leone.sql
+conf/init.sql
+.DS_Store
+dhis.war
